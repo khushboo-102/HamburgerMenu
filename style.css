@@ -1,0 +1,40 @@
+div{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-weight: bold;
+}
+img{
+    height:5%;
+    width: 5%;
+}
+ul{
+        list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.link-container{
+    display: none;
+}
+ul li{
+    display: block;
+    text-align: center;
+    background-color: skyblue;
+    border: 1px solid black;
+    padding: 30px;
+    margin-right: 35px;
+}
+p{
+    font-weight: bold;
+    font-size: larger;
+}
+/* .cross-icons{ */
+    /* font-size: 40px; Adjust the size as needed */
+    /* color: black    ; Adjust the color as needed */
+/* } */
